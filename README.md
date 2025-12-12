@@ -69,11 +69,11 @@ Or using your IDE (IntelliJ, Eclipse, VS Code).
 
 📸 UI Screenshots
 
-🔹 Dashboard Screenshot
+🔹 ## Dashboard Screenshot
 ![WhatsApp Image 2025-12-12 at 2 47 11 PM](https://github.com/user-attachments/assets/348e8ce7-5316-431c-a6c2-c33b8a376b87)
 
 
-🔹 Train List Page
+🔹 ## Train List Page
 ![WhatsApp Image 2025-12-12 at 2 47 51 PM](https://github.com/user-attachments/assets/534650d4-5e57-4b65-b204-f9f8b6a72765)
 
 
